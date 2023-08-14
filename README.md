@@ -1,3 +1,13 @@
+# autocomplete-text-box
+
+This project features AutoCompleteText.js, a React component that filters options and autocompletes the user's input. AutoCompleteText.css styles the component. In order to use the component, make sure to import it from AutoCompleteText.js and provide a list of options:
+
+`<AutoCompleteText items={list} /`
+
+where 'list' is a list of options.
+
+Below is the default React README.md to help run the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
