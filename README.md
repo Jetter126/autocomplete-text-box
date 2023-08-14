@@ -2,7 +2,7 @@
 
 This project features AutoCompleteText.js, a React component that filters options and autocompletes the user's input. AutoCompleteText.css styles the component. In order to use the component, make sure to import it from AutoCompleteText.js and provide a list of options:
 
-`<AutoCompleteText items={list} /`
+`<AutoCompleteText items={list} />`
 
 where 'list' is a list of options.
 
